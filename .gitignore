@@ -110,6 +110,14 @@ Data/Skyrim\ -\ Textures8.bsa
 Data/Skyrim\ -\ Voices_en0.bsa
 Data/Skyrim.esm
 Data/Update.esm
+Data/Unofficial\ Skyrim\ Special\ Edition\ Patch\ -\ Textures.bsa
+Data/Unofficial\ Skyrim\ Special\ Edition\ Patch.bsa
+Data/Unofficial\ Skyrim\ Special\ Edition\ Patch.esp
+Data/Unofficial\ Skyrim\ Special\ Edition\ Patch.ini
+Data/Unofficial\ Skyrim\ Special\ Edition\ Patch.modgroups
+
+# Data/Music Folder
+Data\music\*.wav
 
 # Data/Docs Folder
 Data/Docs/__folder_managed_by_vortex
