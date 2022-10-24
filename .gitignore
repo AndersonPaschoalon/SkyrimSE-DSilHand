@@ -7836,7 +7836,8 @@ Data/Source/Scripts/QF_BQ01_00095125.psc
 Data/Source/Scripts/QF_BQ02_000BD77F.psc
 Data/Source/Scripts/QF_BQ03_000BD78C.psc
 Data/Source/Scripts/QF_BQ04_000CBA9A.psc
-Data/Source/Scripts/QF_C00_0004B2D9.psc
+# changed script for The Companions questline
+#Data/Source/Scripts/QF_C00_0004B2D9.psc
 Data/Source/Scripts/QF_C00DebugFollowerComeHere_000A81FE.psc
 Data/Source/Scripts/QF_C00GiantAttack_000C97D9.psc
 Data/Source/Scripts/QF_C00JorrvaskrFight_000BC0BD.psc
